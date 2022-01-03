@@ -7,3 +7,4 @@ TODO: add GIF usage example
 # TODOs
 * add App Icon
 * add usage example with GIFs/Videos
+* add AppleScript support
