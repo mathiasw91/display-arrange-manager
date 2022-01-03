@@ -1,10 +1,10 @@
-# display-arrange-manager
+# display-arrange-manager (DAM)
 A menu bar app that allows to store multiple display arrangements and switch between them.
 
-# Usage 
-TODO: add GIF usage example
+# usage demo 
+![](DAM-demo.gif)
 
 # TODOs
 * add App Icon
-* add usage example with GIFs/Videos
 * add AppleScript support
+* improve quality of usage demo gif
